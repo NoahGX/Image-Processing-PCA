@@ -10,7 +10,7 @@ The purpose of this Jupyter Notebook is to explore the application of Principal 
 - **Image Reconstruction**: Reconstructing images from the reduced dimensionality to visualize loss due to compression.
 
 ## Usage
-Run the cells sequentially from top to bottom in order to observe preprocessing, PCA, and the effects of dimensionality reduction.
+Run each cell sequentially to observe preprocessing, PCA, and the effects of dimensionality reduction.
 
 ## Prerequisites
 - Python 3.6 or above
